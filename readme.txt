@@ -10,3 +10,6 @@ les rapport sont mis en avent sur github.
 les javadoc sont disponible ici:
 Carte:
 Blackjack:
+Vous pouvez me contacté grace à mon mail:
+mon mail perso : malaubier.leo@gmail.com 
+ou bien sur mon mail universitaire : 21903309@etu.unicaen.fr
