@@ -6,3 +6,7 @@ un répertoire src contenant le code commenté
 -un rapport
 
 /!\chaque dossier contien un rapport différent
+les rapport sont mis en avent sur github. 
+les javadoc sont disponible ici:
+Carte:
+Blackjack:
