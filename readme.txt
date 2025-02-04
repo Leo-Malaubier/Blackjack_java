@@ -8,8 +8,7 @@ un répertoire src contenant le code commenté
 /!\chaque dossier contien un rapport différent
 les rapport sont mis en avent sur github. 
 les javadoc's étant trop volumineuses, vous pouvez les consultés ici:
-Carte: https://doccarte.farandoledesserveurs.fr
-Blackjack: https://docblackjack.farandoledesserveurs.fr
+Carte: https://doccarte.-----.net (non disponible actuellement)
+Blackjack: https://docblackjack.------.net(non disponible acutellement)
 Vous pouvez me contacté grace à mon mail:
 mon mail perso : malaubier.leo@gmail.com 
-ou bien sur mon mail universitaire : 21903309@etu.unicaen.fr
